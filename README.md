@@ -1,10 +1,11 @@
 <h1 align="center">Hola 👋, soy Jonathan / jfpazto 🇨🇴</h1>
 
-<p align="center">Ingeniero de sistemas | Desarrollo de software | Datos y agentes de IA</p>
+<p align="center">MsC Sistemas Inteligentes (En curso) | Ingeniero de sistemas | Datos y agentes de IA | Desarrollo de software </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-fabian-paez-torres/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jonathan Páez" /></a>
 <a href="mailto:jfpazto@hotmail.com"><img src="https://img.shields.io/badge/Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Correo de Jonathan Páez" /></a>
+<a href="https://portafolio-jonathan-3nupbd7e4-jfpaztos-projects.vercel.app/es/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio de Jonathan Páez" /></a>
 </p>
 
 ## Sobre mí 😃
