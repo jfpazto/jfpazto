@@ -44,6 +44,5 @@ Permite consultar tokens, coste estimado y uso de contexto, además de rebobinar
 ## GitHub 🐙
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jfpazto&show_icons=true&theme=dark&hide_border=false" alt="Estadísticas de GitHub de jfpazto" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfpazto&layout=compact&theme=dark&hide_border=false" alt="Lenguajes de los repositorios públicos de jfpazto" height="165" />
 </p>
